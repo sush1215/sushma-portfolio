@@ -7,6 +7,7 @@ Learning coding and web-development.
 
 
 list of things i know:
+
 1) html
 2) CSS
 3) Javascript
